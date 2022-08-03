@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-<!--
-**talescarneiro/talescarneiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/talescarneiro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=talescarneiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talescarneiro&layout=compact&langs_count=16&theme=dark"/>
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
