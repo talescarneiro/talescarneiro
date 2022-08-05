@@ -24,4 +24,4 @@
 </div>
   
   
-![Snake animation](https://github.com/talescarneiro/talescarneiro/blob/main/github-user-contribution.svg)
+![Snake animation](https://github.com/talescarneiro/talescarneiro/blob/main/github-user-contribution.svg#gh-dark-mode-only)
