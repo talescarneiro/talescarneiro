@@ -22,6 +22,13 @@ When I'm not coding, you can find me immersing myself in nature, exploring hikin
 
 I'm open to collaborating on exciting projects and contributing to the developer community. If you have any interesting opportunities or just want to connect, feel free to reach out!
 
+  <div>
+  <a href = "mailto:jobbtales@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/tales-carn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+
+
 Let's code something amazing together! 🚀
 
 <div>
@@ -41,10 +48,5 @@ Let's code something amazing together! 🚀
 </div>
   
   ##
-  
-  <div>
-  <a href = "mailto:jobbtales@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/tales-carn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
   
 
