@@ -18,7 +18,7 @@ I'm a passionate web developer with a keen interest in building innovative and u
 
 Apart from my passion for coding, I am an avid learner, always eager to explore new technologies and keep up with the latest industry trends. I am fascinated by the transformative power of technology and its ability to create positive impacts in our lives.
 
-When I'm not coding, you can find me immersing myself in nature, exploring hiking trails, or capturing beautiful moments through my camera lens. I value creativity, curiosity, and continuous growth, both personally and professionally.
+When I'm not coding, you can find me immersing myself in nature, exploring hiking trails, or capturing beautiful moments while I'm out surfing in the ocean. I value creativity, curiosity, and continuous growth, both personally and professionally.
 
 I'm open to collaborating on exciting projects and contributing to the developer community. If you have any interesting opportunities or just want to connect, feel free to reach out!
 
